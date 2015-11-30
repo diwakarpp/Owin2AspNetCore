@@ -1,0 +1,15 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "OWIN to ASP.NET 5 Middleware wrapper",
+  "authors": [ "nicjut" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": { }
+  },
+  "dependencies": {
+    "Microsoft.AspNet.Http": "1.0.0-rc1-final",
+    "Microsoft.Owin": "3.0.1"
+  }
+}
